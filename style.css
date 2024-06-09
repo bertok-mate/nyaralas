@@ -1,6 +1,18 @@
-.navbar {
-    background-color: #ffffcc;
+.navbar{
+    background-color: #ccccff;
+	font-style: italic;
+	font-weight: bold;
+}
+div.col-md-12, div.col-md-10 {	/* kisebb kepernyon is legyen margo a szoveg alatt */
+	margin-bottom: 25px;
+}
+h2 {
+	color: orange;
+	font-style: italic;
 }
 img {
     border: 2px solid black;
+}
+body {
+	margin: 25px;
 }
